@@ -1,4 +1,11 @@
-
-h1{
-    color: purple;
+h1 {
+    color:red;
+}
+html {background-color: black}
+.recipes{
+    color: red;
+}
+html {color: white}
+h3{
+    color: red;
 }
